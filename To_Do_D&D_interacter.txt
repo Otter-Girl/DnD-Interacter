@@ -1,0 +1,10 @@
+To_Do_D&D_interacter
+
+Save/load data with Stat's advice
+
+Stat parcer in Charahter.__init__
+import_mob
+
+actions functions
+
+weather table
